@@ -1,0 +1,1 @@
+# Polinomul-de-interpolare-Lagrange cu schema Aitken
